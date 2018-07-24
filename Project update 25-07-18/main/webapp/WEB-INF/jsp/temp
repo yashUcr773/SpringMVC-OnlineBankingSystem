@@ -1,0 +1,5 @@
+				<td><h4><a href="home.jsp" class="badge badge-dark">Back</a></h4></td>
+				<td><H1 >About US</H1></td>
+				<td><h4><a href="login" class="badge badge-dark">Login</a></h4></td>
+				<td><h4><a href="register" class="badge badge-dark">Register</a></h4></td>
+				<td><h4><a href="home" class="badge badge-dark">Return Home</a></h4></td>
